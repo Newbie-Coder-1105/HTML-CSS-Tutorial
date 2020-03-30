@@ -8,3 +8,6 @@ HTML is used to create web pages and web applications.
 HTML is widely used language on the web.
 We can create a static website by HTML only.
 This HTML tutorial is developed for beginners and young professionals also.
+HTML was developed by Sir Tim Berners-Lee in late 1989 and he is considered as Father of HTML. 
+In 1996, the World Wide Web Consortium (W3C) became the authority to maintain the HTML specifications. 
+HTML became an international standard (ISO) in 2000.
